@@ -1,4 +1,4 @@
-Insert description of issue here
+Insert a description of the issue here
 
 ---
 
